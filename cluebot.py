@@ -7,8 +7,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler
 
 # (중요) TOKEN 바꿔라
-TOKEN = "5995000134:AAGMnvtemS6j5PWCSLYMqpqG1C__fNeHXcU"
-BOT_USERNAME = "lustbj_TG_bot"
+TOKEN = "_"
+BOT_USERNAME = "_bot"
 
 
 SUSPECTS = ["김철수", "이영희", "박민수", "최지훈", "한수진", "오세훈"]
