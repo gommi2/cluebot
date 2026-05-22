@@ -1,0 +1,13 @@
+python -m venv venv
+venv\Scripts\activate
+pip install python-telegram-bot
+python cluebot.py
+
+정상이면:
+
+Bot running...
+
+
+# (중요) TOKEN 바꿔라
+TOKEN = "5995000134:AAGMnvtemS6j5PWCSLYMqpqG1C__fNeHXcU"
+BOT_USERNAME = "lustbj_TG_bot"
